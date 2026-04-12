@@ -36,6 +36,7 @@ There are three layers:
 - Add links between related pages whenever a meaningful connection exists.
 - When new evidence contradicts an older claim, update the relevant wiki pages and note the conflict clearly.
 - Keep the wiki in markdown.
+- Commits should follow the unified format `vault backup: YYYY-MM-DD HH:MM:SS`.
 
 ## Core workflows
 

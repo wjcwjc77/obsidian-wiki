@@ -19,3 +19,9 @@
 - Use topic pages as synthesis hubs across multiple sources, especially for cross-cutting comparisons or thematic overviews.
 - Use entity pages as the default home for broad, recurring conceptual buckets. Prefer stable layers that mirror the source hierarchy under `raw/sources/agent/`, rather than narrow one-off products, vendors, or project pages.
 - Update `index.md` and `log.md` during every ingest pass.
+
+## Commit conventions
+
+- All commits should use the unified format `vault backup: YYYY-MM-DD HH:MM:SS`.
+- Use local repository time for the timestamp.
+- Do not use alternative commit subject styles unless the user explicitly asks for an exception.
