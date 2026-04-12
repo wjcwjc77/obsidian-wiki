@@ -1,13 +1,12 @@
 ---
-title: "上手 Hermes Agent 后建议先尝试的十件事情"
-source: "https://mp.weixin.qq.com/s/0SYL-HKbWGj3eToQPqnpBw"
+title: 上手 Hermes Agent 后建议先尝试的十件事情
+source: https://mp.weixin.qq.com/s/0SYL-HKbWGj3eToQPqnpBw
 author:
-  - "[[岚夫柯子皮AI]]"
 published:
 created: 2026-04-12
-description: "本文通过上手实践操作Hermes Agent ，给出了安装Hermes 后建议先尝试的十项功能，内容非常丰富"
+description: 本文通过上手实践操作Hermes Agent ，给出了安装Hermes 后建议先尝试的十项功能，内容非常丰富
 tags:
-  - "clippings"
+  - hermes
 ---
 原创 岚夫柯子皮AI *2026年4月9日 21:41*
 
