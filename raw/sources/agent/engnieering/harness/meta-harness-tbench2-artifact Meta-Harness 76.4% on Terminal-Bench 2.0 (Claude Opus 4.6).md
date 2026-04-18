@@ -48,3 +48,6 @@ The agent was discovered through automated harness evolution. More details comin
 ## Acknowledgements
 
 We thank KRAFTON AI for compute support.
+
+## Reference code
+https://github.com/stanford-iris-lab/meta-harness
