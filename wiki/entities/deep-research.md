@@ -8,4 +8,8 @@ Deep research is the broad bucket for agents and workflows that perform extended
 
 - [[wiki/summaries/mirothinker]]
 - [[wiki/summaries/awesome-autoresearch]]
+- [[wiki/summaries/software-team-economics-flying-blind]]
+- [[wiki/summaries/agentic-coding-slow-down]]
+- [[wiki/summaries/jensen-huang-interview-tpu-export-controls]]
+- [[wiki/summaries/ai-film-industry-next-1500-days]]
 - [[wiki/topics/deep-research-and-autoresearch]]

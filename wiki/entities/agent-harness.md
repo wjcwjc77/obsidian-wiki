@@ -9,5 +9,7 @@ Agent harness is the runtime-facing sub-bucket within agent engineering that cov
 - [[wiki/summaries/anthropic-managed-agents-architecture]]
 - [[wiki/summaries/awesome-harness-engineering]]
 - [[wiki/summaries/meta-harness-terminal-bench-2]]
+- [[wiki/summaries/agent-development-ts-stack]]
+- [[wiki/summaries/harness-engineering-explainer]]
 - [[wiki/topics/managed-agents]]
 - [[wiki/topics/agent-harness-engineering]]

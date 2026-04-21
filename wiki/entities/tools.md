@@ -7,3 +7,8 @@ Tools is a broad adjacent concept for external software, interfaces, and builder
 ## Related notes
 
 - [[wiki/summaries/openscreen]]
+- [[wiki/summaries/frontend-design-skill-impeccable]]
+- [[wiki/summaries/heygen-hyperframes-skill]]
+- [[wiki/summaries/markdown-viewer-skills]]
+- [[wiki/summaries/fincept-terminal]]
+- [[wiki/summaries/claude-design-practices]]

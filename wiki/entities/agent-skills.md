@@ -7,4 +7,10 @@ Agent skills is the broad bucket for reusable domain packs, operating knowledge,
 ## Related notes
 
 - [[wiki/summaries/wechat-pay-skills]]
+- [[wiki/summaries/hermes-agent-wechat-crawler]]
+- [[wiki/summaries/frontend-design-skill-impeccable]]
+- [[wiki/summaries/heygen-hyperframes-skill]]
+- [[wiki/summaries/markdown-viewer-skills]]
+- [[wiki/summaries/vercel-agent-skills]]
+- [[wiki/summaries/hermes-agent-first-ten-things]]
 - [[wiki/topics/agent-skills-and-domain-packs]]

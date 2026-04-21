@@ -8,6 +8,12 @@ Agent skills package domain knowledge, examples, and operating rules into reusab
 
 - [[wiki/summaries/wechat-pay-skills]]
 - [[wiki/summaries/openviking]]
+- [[wiki/summaries/hermes-agent-wechat-crawler]]
+- [[wiki/summaries/frontend-design-skill-impeccable]]
+- [[wiki/summaries/heygen-hyperframes-skill]]
+- [[wiki/summaries/markdown-viewer-skills]]
+- [[wiki/summaries/vercel-agent-skills]]
+- [[wiki/summaries/hermes-agent-first-ten-things]]
 
 ## Related entities
 

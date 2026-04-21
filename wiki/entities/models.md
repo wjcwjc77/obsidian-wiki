@@ -7,3 +7,4 @@ Small models is a broad adjacent concept for lightweight or educational model wo
 ## Related notes
 
 - [[wiki/summaries/guppylm]]
+- [[wiki/summaries/pretraining-difficulty-survey]]

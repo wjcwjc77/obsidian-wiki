@@ -9,6 +9,8 @@ Harness engineering is the operational layer around the model: context managemen
 - [[wiki/summaries/anthropic-managed-agents-architecture]]
 - [[wiki/summaries/awesome-harness-engineering]]
 - [[wiki/summaries/meta-harness-terminal-bench-2]]
+- [[wiki/summaries/agent-development-ts-stack]]
+- [[wiki/summaries/harness-engineering-explainer]]
 
 ## Related entities
 

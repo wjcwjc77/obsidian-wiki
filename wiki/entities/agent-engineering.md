@@ -9,5 +9,8 @@ Agent engineering is the broad bucket for how agents are structured, provisioned
 - [[wiki/summaries/anthropic-managed-agents-architecture]]
 - [[wiki/summaries/awesome-harness-engineering]]
 - [[wiki/summaries/meta-harness-terminal-bench-2]]
+- [[wiki/summaries/agent-development-ts-stack]]
+- [[wiki/summaries/hermes-agent-seven-facts]]
+- [[wiki/summaries/hermes-agent-first-ten-things]]
 - [[wiki/topics/managed-agents]]
 - [[wiki/topics/agent-harness-engineering]]

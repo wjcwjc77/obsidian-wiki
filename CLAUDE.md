@@ -51,6 +51,27 @@ When processing a new source:
 6. Update `index.md` so the new or changed pages are discoverable.
 7. Append an entry to `log.md`.
 
+### Update (full + incremental)
+
+Use two ingest modes and select mode in this order:
+1. Check whether `wiki/` already has meaningful content.
+   - If `wiki/` is empty (initialization state), run a full ingest across `raw/sources/`.
+   - If `wiki/` already has content, run incremental ingest.
+2. For incremental ingest, read the latest `ingest` entry in `log.md` and infer the last ingest time.
+3. Use git history since that time to find changed files under `raw/sources/**` (at least added/modified; include rename/delete when relevant).
+4. Update only impacted wiki pages:
+   - matching pages in `wiki/summaries/`
+   - affected `wiki/topics/` and `wiki/entities/`
+   - affected navigation entries in `index.md`
+5. Append an ingest entry to `log.md` using the existing human-readable format.
+
+Fallback rule:
+- If incremental mode is selected but no valid last-ingest time can be inferred from `log.md`, run one full ingest, then continue with incremental mode on later runs.
+
+Logging guidance (no hard-coded schema):
+- Keep `log.md` entries readable and traceable.
+- In ingest entries, prefer to include: source scope/files processed, updated wiki pages, and a short note that indicates time relation to the previous ingest (for example, “since last ingest”).
+
 ### Query
 
 When answering a question:
